@@ -24,32 +24,31 @@
   * [Object Oriented JavaScript](https://github.com/SF-WDI-LABS/js-oop-flower-power)
   * **Project**: [Project 0, the racing game](https://github.com/sf-wdi-labs/project-0)
 ### Server-side JavaScript
-  * [Express intro]()
-  * [Express Routes and Params]()
-  * **Lab**: [ToDo lab]()
-  * [MongoDB and Mongoose]()
-  * [Mongoose Associations]()
-  * **Lab**: [Book app]() (in 3 sprints)
-  * **Project**: [Personal API]()
-  * **Lab**: [Tunely]() (in 6 spints)
-  * [Auth with Passport]()
-  * **Project**: Project 1, a CRUD app.
+  * [Express intro](https://github.com/SF-WDI-LABS/express)
+  * [Express Routes and Params](https://github.com/sf-wdi-labs/express-dynamic-routes)
+  * **Lab**: [ToDo lab](https://github.com/sf-wdi-labs/test-driven-todo-api)
+  * [MongoDB and Mongoose](https://github.com/SF-WDI-LABS/mongoose)
+  * [Mongoose Associations](https://github.com/SF-WDI-LABS/mongoose-associations)
+  * **Lab**: [Book app](https://github.com/SF-WDI-LABS/mongoose-books-app) (in 3 sprints)
+  * **Project**: [Personal API](https://github.com/SF-WDI-LABS/express-personal-api)
+  * **Lab**: [Tunely](https://github.com/SF-WDI-LABS/tunely) (a full stack project walkthrough in 6 spints)
+  * [Auth with Passport](https://github.com/SF-WDI-LABS/express-microblog-add-auth)
+  * **Project**: [Project 1, a CRUD app](https://github.com/SF-WDI-LABS/project-01)
 ### Front-end Frameworks
-  * [ES6]()
-  * [Classes]()
-  * [Inheritance]()
-  * [React Components]()
-  * [React State and Props]()
-  * [React Router]()
-  * **Lab**: React Todo (in 5 sprints)
-  * AJAX and React
-  * Handling events in React
-  * **Lab**: React Giphy
-  * Component Life Cycle
-  * MERN - Full stack React development
-  * **Lab**: MERN CRUD Lab
-  * **Project**: Project Wayfarer
-  * React Auth with Passport
+  * [ES6](https://github.com/SF-WDI-LABS/es6)
+  * [Classes](http://javascript.info/class) (not GA generated material)
+  * [Inheritance](http://javascript.info/class-inheritance) (not GA generated material)
+  * [React Components](https://github.com/SF-WDI-LABS/react-intro)
+  * [React State and Props](https://github.com/SF-WDI-LABS/react-intro-2)
+  * React Router (materials don't yet exist)
+  * **Lab**: [React Todo](https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery) (in 5 sprints)
+  * AJAX and React (materials don't yet exist)
+  * Handling events in React (materials don't yet exist)
+  * **Lab**: [React Giphy](https://github.com/SF-WDI-LABS/react-giphy) and [solutions](https://github.com/SF-WDI-LABS/react-giphy-solution)
+  * [Component Life Cycle](https://github.com/SF-WDI-LABS/react-component-lifecycle)
+  * **Lab**: Full stack React: [MERN CRUD Lab](https://github.com/SF-WDI-LABS/react-component-lifecycle)
+  * **Project**: [Project Wayfarer](https://github.com/SF-WDI-labs/project-wayfarer)
+  * [React Auth with Passport](https://github.com/SF-WDI-LABS/React-And-Passport)
 ### Ruby
   * Intro to Ruby
   * Ruby Methods
