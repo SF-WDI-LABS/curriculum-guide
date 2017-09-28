@@ -50,31 +50,31 @@
   * **Project**: [Project Wayfarer](https://github.com/SF-WDI-labs/project-wayfarer)
   * [React Auth with Passport](https://github.com/SF-WDI-LABS/React-And-Passport)
 ### Ruby
-  * Intro to Ruby
-  * Ruby Methods
-  * Idiomatic Ruby
-  * **Lab**: Ruby Method Drills
-  * Object Oriented Ruby
-  * **Lab**: Object Oriented Ruby Drills
-  * **Lab**: Go Fish
-  * Rspec
+  * [Intro to Ruby](https://github.com/SF-WDI-LABS/intro-ruby)
+  * [Ruby Methods](https://github.com/SF-WDI-LABS/ruby-methods)
+  * **Lab**: [Ruby Method Drills](https://github.com/SF-WDI-LABS/ruby-method-drills)
+  * [Idiomatic Ruby](https://github.com/SF-WDI-LABS/idiomatic-ruby)
+  * [Object Oriented Ruby](https://github.com/sf-wdi-LABS/ruby-oop)
+  * **Lab**: [Object Oriented Ruby Drills](https://github.com/sf-wdi-LABS/ruby-monster-oop)
+  * **Lab**: [Go Fish](https://github.com/SF-WDI-LABS/go-fish-card-game)
+  * [Rspec](https://github.com/SF-WDI-LABS/rspec)
 ### Ruby on Rails
-  * Rails Intro
-  * Rails views and helpers
-  * Active Record
-  * Migrations
-  * **Lab**: Bog app
-  * Associations
-  * Validations and Error handling
-  * Cookies and Sessions
-  * Rails Auth
-  * **Lab**: Library app
-  * Asset Pipeline
-  * Rspec in Rails
-  * **Lab**: Rails Rspec Lab
-  * **Project**: Rails gem lightning talks
-  * **Project**: Project 2 a Rails CRUD app
-  * React on Rails
+  * [Rails Intro](https://github.com/sf-wdi-labs/rails-intro)
+  * [Rails views and helpers](https://github.com/SF-WDI-LABS/rails-views-and-helpers)
+  * [Active Record](https://github.com/SF-WDI-LABS/active-record)
+  * [Migrations](https://github.com/SF-WDI-LABS/migrations)
+  * **Lab**: [Bog app](https://github.com/SF-WDI-LABS/rails_bog_app)
+  * [Associations](https://github.com/SF-WDI-LABS/rails-associations)
+  * [Validations and Error handling](https://github.com/SF-WDI-LABS/rails-validations-errors)
+  * [Cookies and Sessions](https://github.com/SF-WDI-LABS/cookies-sessions)
+  * [Rails Auth](https://github.com/SF-WDI-LABS/rails-auth)
+  * **Lab**: [Library app](https://github.com/SF-WDI-LABS/public-library-app)
+  * [Asset Pipeline](https://github.com/SF-WDI-LABS/rails-asset-pipeline)
+  * [Rspec in Rails](https://github.com/SF-WDI-LABS/testing-with-rspec)
+  * **Lab**: [Rails Rspec Lab](https://github.com/SF-WDI-LABS/rspec_testing_inventory)
+  * **Project**: [Rails gem lightning talks](https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks)
+  * **Project**: [Project 2 a Rails CRUD app](https://github.com/sf-wdi-labs/project-02)
+  * [React on Rails](https://github.com/SF-WDI-LABS/react-on-webpack-on-rails)
 ### Review
   * MEN stack Review
   * MERN stack Review
