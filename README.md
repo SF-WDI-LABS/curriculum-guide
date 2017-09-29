@@ -72,21 +72,21 @@
   * [Asset Pipeline](https://github.com/SF-WDI-LABS/rails-asset-pipeline)
   * [Rspec in Rails](https://github.com/SF-WDI-LABS/testing-with-rspec)
   * **Lab**: [Rails Rspec Lab](https://github.com/SF-WDI-LABS/rspec_testing_inventory)
-  * **Project**: [Rails gem lightning talks](https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks)
+  * **Project**: [Ruby gem lightning talks](https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks)
   * **Project**: [Project 2 a Rails CRUD app](https://github.com/sf-wdi-labs/project-02)
   * [React on Rails](https://github.com/SF-WDI-LABS/react-on-webpack-on-rails)
 ### Review
-  * MEN stack Review
-  * MERN stack Review
-  * Student Lightning talks
+  * [MEN stack Review](https://github.com/SF-WDI-LABS/MEN-review)
+  * ([MEAN stack Review](https://github.com/SF-WDI-LABS/MEAN-review))
+  * [Student Lightning talks](https://github.com/SF-WDI-LABS/lightning-talk) (any technology, not just gems)
 ### Interview prep
-  * Palindrome algorithm
-  * Stacks
-  * Queues
-  * Trees
-  * Binary Search
-  * Bubble sort
-  * Merge and Merge sort
-  * Hash table
-  * Djikstra's algorithm
-  * Interview techniques and challenges
+  * [Collected JS algorithms drills](https://github.com/SF-WDI-LABS/js-algorithms-drills)
+  * [Palindrome algorithm](https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes)
+  * [Stacks](https://github.com/SF-WDI-LABS/stacks)
+  * [Queues](https://github.com/SF-WDI-LABS/queues)
+  * [Trees](https://github.com/SF-WDI-LABS/trees)
+  * [Binary Search](https://github.com/SF-WDI-LABS/binary-search)
+  * [Bubble sort](https://github.com/SF-WDI-LABS/bubble-sort)
+  * [Merge](https://github.com/SF-WDI-LABS/merge) and [Merge sort](https://github.com/SF-WDI-LABS/mergesort)
+  * [Hash map](https://github.com/SF-WDI-LABS/hash-map-lab)
+  * [Interview techniques and challenges](https://github.com/SF-WDI-LABS/interview-prep) (3 days of material)
